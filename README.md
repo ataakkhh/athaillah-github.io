@@ -2,7 +2,7 @@
 
 ### Languange and Tools
 <P>
-java programing langueage,javaScript,pyhton
+java programing langueage,javaScript,pyhton,HTML,css
 </p>
 
 ### Stats: 
