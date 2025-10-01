@@ -7,7 +7,7 @@ java programing langueage,javaScript,pyhton,HTML,css
 
 ### Stats: 
 <p>
-student a SMK antartika 1 sidoarjo
+student at SMK antartika 1 sidoarjo
 </p>
 
 ### let's connect:
